@@ -1,0 +1,21 @@
+body
+{
+	font:'reley', sans-serif;
+	color: rgba(0,0,0,0.5);
+	text-align: center; 
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
+	
+	
+	background: linear-gradient(to right, #a9c056, #181dba);
+}  
+input
+{
+    box-sizing: 20%; 
+}
+#abc
+{
+	
+	background-color: background;
+
+}
